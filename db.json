@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "value": "nombre",
+    "label": "Nombre",
+    "type": "text"
+  },
+  {
+    "id": 2,
+    "value": "edad",
+    "label": "Edad",
+    "type": "text"
+  },
+  {
+    "id": 3,
+    "value": "mail",
+    "label": "Mail",
+    "type": "text"
+  },
+  {
+    "id": 4,
+    "value": [
+      {
+        "label": "femenino",
+        "value": 0
+      },
+      {
+        "label": "masculino",
+        "value": 1
+      }
+    ],
+    "label": "Sexo",
+    "type": "radio",
+    "selectedValue": null
+  },
+  {
+    "id": 5,
+    "value": [
+      "Soltero",
+      "Casado",
+      "Divorciado"
+    ],
+    "label": "Estado Civil",
+    "type": "dropdown",
+    "selectedValue": null
+  },
+  {
+    "id": 6,
+    "value": "otros",
+    "label": "Otros",
+    "type": "text"
+  }
+]
