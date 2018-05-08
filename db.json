@@ -1,4 +1,4 @@
-[
+{"DynamicForm" :[
   {
     "id": 1,
     "value": "nombre",
@@ -51,3 +51,4 @@
     "type": "text"
   }
 ]
+}
