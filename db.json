@@ -1,9 +1,9 @@
 {
 "DynamicForm" :{
-	"config":{"title":"titulo de formulario"},
+	"config":{"title":"TITULO DE FORMULARIO"},
 	"sections":[
 		{
-		"config":{"title":"titulo seccion 1"},
+		"config":{"title":"TITULO SECCION 1"},
 		 "components":[ 
 			 {
 				"id": 1,
@@ -59,7 +59,7 @@
 		  ]
 		},
 		{
-		"config":{"title":"titulo seccion 2"},
+		"config":{"title":"TITULO SECCION 2"},
 		 "components":[ 
 			 {
 				"id": 1,
